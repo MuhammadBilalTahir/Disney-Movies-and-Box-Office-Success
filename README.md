@@ -5,7 +5,7 @@ Answer it with Data Science Series.
 
 Part 2
 
-Today we will explore that what aspects make a specific disney movie stand out from the rest.
+Today we will explore that what aspects make a specific Disney movie stand out from the rest.
 
 In this series I will answer unorthodox questions by applying data science techniques.
 
